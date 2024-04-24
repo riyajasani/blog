@@ -38,7 +38,7 @@ Make sure you have Docker installed on your system. You can download and install
 <h3>3. DockerHub Repository:</h3>
    - Create a new repository on Docker Hub where you will push your Docker images.
    - Log in to Docker Hub if you haven't already.
-![Screenshot 2024-04-24 041145](https://github.com/Neet63/cloud.github.io/assets/146973956/7ef50b5b-518b-4e85-87d8-000a123334e3)
+
 
 <h3>4. Creating Images and Containers:</h3>
    - Build the Docker images for frontend, backend, and database:
